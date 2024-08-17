@@ -24,5 +24,5 @@ speedDetails1.value = ping + ' ms';
 speedDetails2.value = upload + ' Mbps';
 speedDetails3.value = download + ' Mbps';
 runTestBtn.textContent = 'Rerun';
-}, 2000); // wait 2 seconds before updating the values
+}, 2000);
 }
